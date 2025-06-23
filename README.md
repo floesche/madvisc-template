@@ -1,0 +1,1 @@
+Please see [GettingStarted](notebooks/GettingStarted.ipynb) for a quick guide.
