@@ -1,0 +1,16 @@
+
+# pixi environments
+.pixi
+*.egg-info
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+
+# Environment variables
+.env
